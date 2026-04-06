@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 5c4df95cb090b7b45b6d08879a44ecad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5732270819216697442
+    second: WarszawskaSzkolaFilmowa film black-01_0
+  - first:
+      213: 1494341917068769235
+    second: WarszawskaSzkolaFilmowa film black-01_1
+  - first:
+      213: 2816463486648109901
+    second: WarszawskaSzkolaFilmowa film black-01_2
+  - first:
+      213: 2588586281873626441
+    second: WarszawskaSzkolaFilmowa film black-01_3
+  - first:
+      213: 7709467633968855271
+    second: WarszawskaSzkolaFilmowa film black-01_4
+  - first:
+      213: -3126573543718345775
+    second: WarszawskaSzkolaFilmowa film black-01_5
+  - first:
+      213: 3535850661964056011
+    second: WarszawskaSzkolaFilmowa film black-01_6
+  - first:
+      213: 5125445015646769633
+    second: WarszawskaSzkolaFilmowa film black-01_7
+  - first:
+      213: 6189583635294633866
+    second: WarszawskaSzkolaFilmowa film black-01_8
+  - first:
+      213: -944357163439099227
+    second: WarszawskaSzkolaFilmowa film black-01_9
+  - first:
+      213: -1798518032139891579
+    second: WarszawskaSzkolaFilmowa film black-01_10
+  - first:
+      213: -8975419608692148937
+    second: WarszawskaSzkolaFilmowa film black-01_11
+  - first:
+      213: 4244861511582861853
+    second: WarszawskaSzkolaFilmowa film black-01_12
+  - first:
+      213: -4612253545699365016
+    second: WarszawskaSzkolaFilmowa film black-01_13
+  - first:
+      213: -6020194459064456656
+    second: WarszawskaSzkolaFilmowa film black-01_14
+  - first:
+      213: 6511310948097257729
+    second: WarszawskaSzkolaFilmowa film black-01_15
+  - first:
+      213: 8474706775743992157
+    second: WarszawskaSzkolaFilmowa film black-01_16
+  - first:
+      213: 8395396795006449808
+    second: WarszawskaSzkolaFilmowa film black-01_17
+  - first:
+      213: -5320265234324364467
+    second: WarszawskaSzkolaFilmowa film black-01_18
+  - first:
+      213: 3458996949187682148
+    second: WarszawskaSzkolaFilmowa film black-01_19
+  - first:
+      213: 7233043956374194639
+    second: WarszawskaSzkolaFilmowa film black-01_20
+  - first:
+      213: 4255460641017853112
+    second: WarszawskaSzkolaFilmowa film black-01_21
+  - first:
+      213: 724837608100732028
+    second: WarszawskaSzkolaFilmowa film black-01_22
+  - first:
+      213: 7945519107495674431
+    second: WarszawskaSzkolaFilmowa film black-01_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9750409f02e270b0800000000000000
+      internalID: -5732270819216697442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 159
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d73cd36e08fcb410800000000000000
+      internalID: 1494341917068769235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 160
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc48c6e96161720800000000000000
+      internalID: 2816463486648109901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945d68922818ce320800000000000000
+      internalID: 2588586281873626441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 160
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b51277f78dfa60800000000000000
+      internalID: 7709467633968855271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 159
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3a8826ded2c94d0800000000000000
+      internalID: -3126573543718345775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 160
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5823d717dd11130800000000000000
+      internalID: 3535850661964056011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 159
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11c61061d312740800000000000000
+      internalID: 5125445015646769633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 160
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fbe41c581d5e550800000000000000
+      internalID: 6189583635294633866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 159
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2fd1cc928f4e2f0800000000000000
+      internalID: -944357163439099227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 97
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cca24f0616a07e0800000000000000
+      internalID: -1798518032139891579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73534d17b67e07380800000000000000
+      internalID: -8975419608692148937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1acf96fd07c8ea30800000000000000
+      internalID: 4244861511582861853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 97
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fad8246dbfdffb0800000000000000
+      internalID: -4612253545699365016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 98
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a20bc2909f37ca0800000000000000
+      internalID: -6020194459064456656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 97
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f2731fc2dc5a50800000000000000
+      internalID: 6511310948097257729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5111df59e43c9570800000000000000
+      internalID: 8474706775743992157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ffc287e0728470800000000000000
+      internalID: 8395396795006449808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 74
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d436c3515fe9a26b0800000000000000
+      internalID: -5320265234324364467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdd731663d00030800000000000000
+      internalID: 3458996949187682148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 36
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94870f72fe06460800000000000000
+      internalID: 7233043956374194639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4768718ee6e0b30800000000000000
+      internalID: 4255460641017853112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 36
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c10b6d6f32f0a00800000000000000
+      internalID: 724837608100732028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarszawskaSzkolaFilmowa film black-01_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 34
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32cb56f787244e60800000000000000
+      internalID: 7945519107495674431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarszawskaSzkolaFilmowa film black-01_0: -5732270819216697442
+      WarszawskaSzkolaFilmowa film black-01_1: 1494341917068769235
+      WarszawskaSzkolaFilmowa film black-01_10: -1798518032139891579
+      WarszawskaSzkolaFilmowa film black-01_11: -8975419608692148937
+      WarszawskaSzkolaFilmowa film black-01_12: 4244861511582861853
+      WarszawskaSzkolaFilmowa film black-01_13: -4612253545699365016
+      WarszawskaSzkolaFilmowa film black-01_14: -6020194459064456656
+      WarszawskaSzkolaFilmowa film black-01_15: 6511310948097257729
+      WarszawskaSzkolaFilmowa film black-01_16: 8474706775743992157
+      WarszawskaSzkolaFilmowa film black-01_17: 8395396795006449808
+      WarszawskaSzkolaFilmowa film black-01_18: -5320265234324364467
+      WarszawskaSzkolaFilmowa film black-01_19: 3458996949187682148
+      WarszawskaSzkolaFilmowa film black-01_2: 2816463486648109901
+      WarszawskaSzkolaFilmowa film black-01_20: 7233043956374194639
+      WarszawskaSzkolaFilmowa film black-01_21: 4255460641017853112
+      WarszawskaSzkolaFilmowa film black-01_22: 724837608100732028
+      WarszawskaSzkolaFilmowa film black-01_23: 7945519107495674431
+      WarszawskaSzkolaFilmowa film black-01_3: 2588586281873626441
+      WarszawskaSzkolaFilmowa film black-01_4: 7709467633968855271
+      WarszawskaSzkolaFilmowa film black-01_5: -3126573543718345775
+      WarszawskaSzkolaFilmowa film black-01_6: 3535850661964056011
+      WarszawskaSzkolaFilmowa film black-01_7: 5125445015646769633
+      WarszawskaSzkolaFilmowa film black-01_8: 6189583635294633866
+      WarszawskaSzkolaFilmowa film black-01_9: -944357163439099227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
